@@ -13,6 +13,7 @@
 
 
 ## 💻Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&labelColor=white)
 ![Data Structures](https://img.shields.io/badge/Data_Structures-006400?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
