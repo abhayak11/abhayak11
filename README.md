@@ -1,4 +1,4 @@
-# Hey There👋, I'm Abhinay Shankar
+# Hey There👋, I'm Abhaya Kirtivasan
 ## Combining machine learning & web dev to innovate, solve problems, and make the world brighter, byte by byte!
 
 
