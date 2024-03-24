@@ -5,7 +5,6 @@
 ## 💫About Me :
 - 🔭 I’m currently learning Competitive Coding. Additionally, also training for a marathon 
 - 🤔 I’m looking to collaborate on projects related to Software Development and Software Engineering
-- 💬 Ask me about Machine Learning, Deep Learning, Python and MERN Technologies
 - 📫 How to reach me: abhayak2k@gmail.com
 - 😄 Pronouns: she/her/hers
 
