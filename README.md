@@ -1,10 +1,9 @@
 # Hey There👋, I'm Abhaya Kirtivasan
-## MSCS student @ Purdue University Fort Wayne | Python | Software Development | Software Engineering 
-
+## Software Engineer @ Arrow Intelligent Systems (Boston, MA) | Python | Java | C | HTML | CSS | Bootstrap | MERN | PostgreSQL | MySQL | Git | Docker | Postman | Jira | PgAdmin | Notion | AWS | GCP | CI/CD | GitHub Actions | Containers | Hugging Face | Selenium | LiteStar | Moodle
 
 ## 💫About Me :
-- 🔭 I’m currently learning Competitive Coding.  
-- 🤔 I’m looking to collaborate on projects related to Software Development and Software Engineering
+- 🔭 I’m currently working as a software engineer at AIS 
+- 🤔 I’m passionate About Building Innovative Solutions with Technology and AI
 - 📫 How to reach me: abhayak2k@gmail.com
 - 😄 Pronouns: she/her/hers
 
