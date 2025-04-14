@@ -4,9 +4,9 @@
 SKILLS: Python | Java | C | HTML | CSS | Bootstrap | MERN | PostgreSQL | MySQL | Git | Docker | Postman | Jira | PgAdmin | Notion | AWS | GCP | CI/CD | GitHub Actions | Containers | Hugging Face | Selenium | LiteStar | Moodle
 
 ## 💫About Me :
-- 🔭 I’m currently working as a software engineer at AIS 
+- 🔭 I’m currently working as a Software Engineer at AIS 
 - 🤔 I’m passionate About Building Innovative Solutions with Technology and AI
-- 📫 How to reach me: abhayak2k@gmail.com
+- 📫 How to reach me: abhayak2k@gmail.com or [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhaya-kirtivasan-0b1b69188/) 
 - 😄 Pronouns: she/her/hers
 
 ## 🌐Socials
