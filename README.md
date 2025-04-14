@@ -1,5 +1,7 @@
 # Hey There👋, I'm Abhaya Kirtivasan
-## Software Engineer @ Arrow Intelligent Systems (Boston, MA) | Python | Java | C | HTML | CSS | Bootstrap | MERN | PostgreSQL | MySQL | Git | Docker | Postman | Jira | PgAdmin | Notion | AWS | GCP | CI/CD | GitHub Actions | Containers | Hugging Face | Selenium | LiteStar | Moodle
+## Software Engineer @ Arrow Intelligent Systems (Boston, MA) 
+
+SKILLS: Python | Java | C | HTML | CSS | Bootstrap | MERN | PostgreSQL | MySQL | Git | Docker | Postman | Jira | PgAdmin | Notion | AWS | GCP | CI/CD | GitHub Actions | Containers | Hugging Face | Selenium | LiteStar | Moodle
 
 ## 💫About Me :
 - 🔭 I’m currently working as a software engineer at AIS 
